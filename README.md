@@ -16,13 +16,15 @@
 ## Installation
 First clone this repository
 ```
-$ git clone https://github.com/kizzanaome/Fast-Food-Fast/tree/develop
-$ cd Fast-Food-Fast
+$ https://github.com/kizzanaome/myScore
+$ cd myscore
 ```
 
 ## Contributers
 - Miriam
-- Akcram
+- Akram
 - Douglas
 - Roy
 - Ivan
+- Micheal
+- Naome
