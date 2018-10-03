@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/kizzanaome/myScore.svg?branch=master)](https://travis-ci.org/kizzanaome/myScore)
+[![Coverage Status](https://coveralls.io/repos/github/kizzanaome/myScore/badge.svg?branch=master)](https://coveralls.io/github/kizzanaome/myScore?branch=master)
 # myScore
 - This is a command line application that is used to give rating on the EPIC values alignment of Bootcamp candidates during Bootcamp
 
